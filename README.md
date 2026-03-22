@@ -2,7 +2,10 @@
 
 <!--
 **9donghae-art/9donghae-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=739df2&height=180&text=Hello✌%20I'm%20Dong%20Hae%20&animation=&fontColor=ffffff&fontSize=60" />
+    </div>
+    
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
